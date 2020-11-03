@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CarAR_S2.unity
+    guid: 5239b2cd5d293405d883df4cff6a2113
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 33aa495dfeb2144158d08d314743b9ff,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: d549f2002d3414f1197aafba750a3384,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 1c53e3fb6c4f14d5ebcdbb8f026cfedd,
+      type: 2}
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: 085aee92cbe6f4383bdef253f657f8ee,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aeee37eb33f1646049cd6da985052ef0,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 2153a7ca4afef4c82a6815d93f8d568f,
+      type: 2}
